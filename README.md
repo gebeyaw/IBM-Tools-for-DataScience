@@ -1,2 +1,1 @@
-# IBM-Tools-for-DataScience
-IBM Tools for Data Science course Peer review assignments.
+#This repository contains the screenshoots of the IBM Tools for Data Science course Peer review assignments.
